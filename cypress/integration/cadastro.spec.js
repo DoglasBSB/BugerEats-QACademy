@@ -2,7 +2,6 @@ import signup from '../pages/SignupPage'
 import signupFactory from '../factories/SignupFactory'
 import signupPage from '../pages/SignupPage'
 
-
 describe('Cadastro', () => {
 
     //Caso de Teste - CT01
@@ -46,7 +45,6 @@ describe('Cadastro', () => {
         signup.alertMessageShouldBe('Oops! Email com formato inválido.')
     
     })
-
 
     context('Campos obrigatórios', function() {
        

@@ -1,7 +1,6 @@
 var faker = require('faker')
 var cpf = require('gerador-validador-cpf')
 
-
 export default {
 
     deliver: function() {

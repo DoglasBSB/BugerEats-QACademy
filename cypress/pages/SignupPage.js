@@ -1,4 +1,3 @@
-
 // Padrão de Projeto - PageObject -> cria-se classes que representam elementos e funções da página.
 class SignupPage {
 
